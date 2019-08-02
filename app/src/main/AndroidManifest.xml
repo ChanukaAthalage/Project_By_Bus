@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".user_password_reset"></activity>
-        <activity android:name=".Main3Activity" />
+        <activity android:name=".passenger_profile" />
         <activity android:name=".user_register"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".user_login"
